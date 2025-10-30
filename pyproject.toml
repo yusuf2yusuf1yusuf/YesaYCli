@@ -1,0 +1,7 @@
+[project]
+name = "yesay"
+version = "0.1.0"
+description = "YesaY CLI"
+requires-python = ">=3.9"
+[project.scripts]
+yesay = "yesay.cli:main"
